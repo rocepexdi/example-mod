@@ -6,11 +6,11 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
+	"id": "geosimplecopilot",
+	"name": "simplecopilot",
+	"version": "$1.0.0",
+	"developer": "CecepGerobak",
+	"description": "gtau lah ini gw buat cuma pas kepikiran doang anjir. di download syukur, g di download gpp",
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
 	}
