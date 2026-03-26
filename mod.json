@@ -1,5 +1,5 @@
 {
-	"geode": "$GEODE_VERSION",
+	"geode": "1.6.1",
 	"gd": {
 		"win": "2.2081",
 		"android": "2.2081",
@@ -8,7 +8,7 @@
 	},
 	"id": "geosimplecopilot",
 	"name": "simplecopilot",
-	"version": "1.0.0",
+	"version": "v1.0.0",
 	"developer": "CecepGerobak",
 	"description": "gtau lah ini gw buat cuma pas kepikiran doang anjir. di download syukur, g di download gpp",
 	"dependencies": {
